@@ -19,3 +19,8 @@ bundle exec jekyll serve --force_polling --livereload
 ## Documentation for the minima theme
 
 https://github.com/jekyll/minima
+
+## Useful key shortcuts
+
+* Open/Close terminal in vscode: Ctrl-J
+* Show developer tools in chrome: Ctrl-Shift-i
